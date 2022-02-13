@@ -3,6 +3,7 @@
 + [NTU-EXCHANGE-REVIEW 國立臺灣大學出國交換歷屆心得查詢器](#ntu-exchange-review-國立臺灣大學出國交換歷屆心得查詢器)
   + [Intro](#intro-專案起源)
   + [Tutorial](#tutorial-使用說明)
+    + [Other Information](#other-information-其他說明)
   + [Conclusion](#conclusion-專案結語)
 
 ## Intro 專案起源
@@ -16,7 +17,7 @@ This tool aims at optimizing "Outgoing Students' Experience" provided by Office 
 
 > Tested on macOS High Sierra 10.13.6
 
-<video src="tutorial.mp4" width=180/>
+<img src="https://media.giphy.com/media/MOGt4D2UqObBLKZ6kJ/giphy.gif">
 
 1. Link to [NTU-EXCHANGE-REVIEW 國立臺灣大學出國交換歷屆心得查詢器](https://share.streamlit.io/damien-y/ntu-exchange-review/main.py)
 
@@ -34,7 +35,7 @@ This tool aims at optimizing "Outgoing Students' Experience" provided by Office 
 
 搜尋成功！下拉可看歷屆資料表格
 
-**Other Information 其他說明**
+### Other Information 其他說明
 - The year default is for recent 10-year data. It's allowable to choose years spanning from 1998 to 2022.
 
 出國年度預設為近 10 年出國記錄，若有需求可以自行增減（87 年度 - 110 年度均有提供）
